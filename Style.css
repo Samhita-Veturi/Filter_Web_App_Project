@@ -1,0 +1,11 @@
+.Heading{
+    font-size: 30px;
+    margin: 5px;
+    width: 50%;
+}
+body{
+    background-repeat: none;
+}
+canvas{
+    border: dashed 5px black;
+}
