@@ -7,5 +7,7 @@ body{
     background-repeat: none;
 }
 canvas{
-    border: dashed 5px black;
+    border: 5px dashed black;
+    margin-top: 50px;
+    margin-left: 250px;
 }

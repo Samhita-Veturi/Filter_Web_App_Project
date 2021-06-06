@@ -1,6 +1,6 @@
 function preload(){}
 function setup(){
-    Canvas = createCanvas(400, 500);
+    Canvas = createCanvas(500, 500);
     Canvas.center();
 }
 function draw(){}
